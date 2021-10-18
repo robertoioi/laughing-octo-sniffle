@@ -1,23 +1,24 @@
-    Abruzzo		43045
-    Basilicata		38698
-    Calabria		99129
-    Campania		86429
-    Emilia-Romagna		59561
-    Friuli-Venezia Giulia		18555
-    Lazio		68247
-    Liguria		8872
-    Lombardia		41002
-    Marche		36781
-    Molise		20866
-    Piemonte		49826
-    Puglia		195786
-    Sardegna		48487
-    Sicilia		153335
-    Toscana		45008
-    Trentino Alto Adige / Südtirol		24845
-    Umbria		28422
-    Valle d'Aosta / Vallée d'Aoste		2301
-    Veneto		74763
-Totale Italia: 1 143 958
+    Fonte,Istat
 
-Fonte: Istat
+    Abruzzo		,43045
+    Basilicata		,38698
+    Calabria	,	99129
+    Campania	,	86429
+    Emilia-Romagna	,	59561
+    Friuli-Venezia Giulia,		18555
+    Lazio		,68247
+    Liguria	,	8872
+    Lombardia,		41002
+    Marche		,36781
+    Molise	,	20866
+    Piemonte,		49826
+    Puglia	,	195786
+    Sardegna,		48487
+    Sicilia	,	153335
+    Toscana	,	45008
+    Trentino Alto Adige ,	24845
+    Umbria,	28422
+    Valle d'Aosta,		2301
+    Veneto		,74763
+    Totale Italia, 1 143 958
+
